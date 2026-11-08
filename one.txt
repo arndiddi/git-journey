@@ -1,5 +1,5 @@
-AOne
+One
 1
 Hello
 Another Feature
-Adding dark mode funcitonality
+Adding dark mode functionality
